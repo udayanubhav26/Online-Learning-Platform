@@ -1,16 +1,34 @@
-# React + Vite
+# ONLINE LEARNING PLATFORM
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## NAME
+**Anubhav Sharma**
 
-Currently, two official plugins are available:
+## COMPANY
+**Codetech IT Solutions**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## INTERVIEW ID
+**CTIS5882**
 
-## React Compiler
+## DOMAIN
+**Web Development**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## DURATION
+**4 Weeks**
 
-## Expanding the ESLint configuration
+## MENTOR
+**Neela Santosh**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+*Description :-*
+
+Our Online Learning Platform, Learnova, is designed to make learning interactive, accessible, and personalized for every student. When I started building it, my goal was to create a space where users can not only access high-quality courses but also track their progress, engage with quizzes, and apply what they learn in a practical way.
+
+The platform includes a wide range of courses in domains like web development, data science, and more. Each course is structured with multiple modules, allowing learners to go at their own pace while keeping track of what they’ve completed. To make learning more engaging, we integrated quizzes and assessments that provide immediate feedback, helping users understand their strengths and areas for improvement.
+
+One of the key features I implemented is the progress tracking system. It allows students to see their growth over time, which motivates them to stay consistent. The dashboard provides a visual representation of progress, making it easy to identify which courses are complete and which still need attention.
+
+Security and accessibility were also a top priority. Users can register and log in securely using a robust authentication system, and all personal data is safely stored in the backend. The platform is mobile-friendly, so learners can access content anytime, anywhere, making education flexible and convenient.
+
+Another unique feature is the personalized recommendations. Based on the courses a user has completed, the platform suggests related content to help them continue learning and building new skills. The integration of quizzes, progress tracking, and recommendations ensures a full-circle learning experience that keeps students engaged and motivated.
+
+*OUTPUT:-*
+
