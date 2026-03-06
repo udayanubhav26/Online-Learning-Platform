@@ -32,11 +32,14 @@ Another unique feature is the personalized recommendations. Based on the courses
 
 *OUTPUT:-*
 
-![Image](https://github.com/user-attachments/assets/d4c57a4e-c758-4cbb-b73f-fcfdf0a468a6)
-
-![Image](https://github.com/user-attachments/assets/74871d55-fbb6-4a9d-86d3-d8b2c6ef0af1)
+![Image](https://github.com/user-attachments/assets/df1ed725-d238-4df0-9d49-47ade79a0808)
 
 ![Image](https://github.com/user-attachments/assets/efab9779-d23a-42bb-accc-4bf8a84e2f3d)
 
-![Image](https://github.com/user-attachments/assets/df1ed725-d238-4df0-9d49-47ade79a0808)
+![Image](https://github.com/user-attachments/assets/74871d55-fbb6-4a9d-86d3-d8b2c6ef0af1)
+
+![Image](https://github.com/user-attachments/assets/d4c57a4e-c758-4cbb-b73f-fcfdf0a468a6)
+
+
+
 
